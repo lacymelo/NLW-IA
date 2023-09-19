@@ -12,7 +12,7 @@
 
 <div align="center">
   <h1>
-    🤖 Upload IA API - Trilha Mastery
+    🤖 Trilha Mastery
   </h1>
 </div>
 

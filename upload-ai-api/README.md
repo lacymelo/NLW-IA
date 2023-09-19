@@ -25,11 +25,6 @@
 - [Ai Vercel SDK](https://sdk.vercel.ai/docs)
 - [Open AI](https://platform.openai.com/docs/introduction)
 - [Zod](https://zod.dev/)
-- [ffmpeg wasm](https://ffmpegwasm.netlify.app/)
-- [Shadcn](https://ui.shadcn.com/)
-- [Tailwind](https://tailwindcss.com/)
-- [Radix UI Primitives](https://www.radix-ui.com/primitives)
-
 
 ## 🔖 Configurações do Layout
 
