@@ -31,49 +31,6 @@
 - [Radix UI Primitives](https://www.radix-ui.com/primitives)
 
 
-## 🔖 Configurações do Layout
-
----
-
-```bash
-# 💻 Comando para inicializar o projeto
-    ✨ pnpm init
-
-# 💻 Comando para instalar o typescript, integração do typescript com o node e tsx para executar um código typescript 
-    ✨ pnpm i typescript @types/node tsx -D
-
-# 💻 Framework para gerenciar rotas
-    ✨ pnpm i fastify
-
-# 💻 Comando para instalar o prisma
-    ✨ pnpm i prisma -D
-
-# 💻 Comando para inicializar o prisma
-    ✨ pnpm prisma init --datasource-provider sqlite
-
-# 💻 Comando para gerar as migrations
-    ✨ pnpm prisma migrate dev
-
-# 💻 Comando para acessa o gerenciador do banco de dados
-    ✨ pnpm prisma studio
-
-# 💻 Comando instalar a biblioteca de upload
-    ✨ pnpm i @fastify/multipart
-
-# 💻 Comando instalar a biblioteca zod para validação
-    ✨ pnpm i zod
-
-# 💻 Biblioteca para transcrição de áudio em texto
-    ✨ pnpm i openai
-
-# 💻 Biblioteca para ler variáveis ambientes
-    ✨ pnpm i dotenv -D
-
-# 💻 Biblioteca para permitir requisições
-    ✨ pnpm i @fastify/cors
-
-    
-```
 ## :man_student: Autor
 ---
 <a href="https://www.linkedin.com/in/laciene-alves-melo-97a69b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
